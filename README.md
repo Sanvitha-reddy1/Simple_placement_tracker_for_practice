@@ -32,16 +32,16 @@ Add a column Readiness_Band:
 | Below 60 | Needs Work |
 
 
-#Charts#
-Bar chart: average score for each of the four skills
-Bar chart: how many students are in each readiness band
-Line or bar chart: average readiness score by branch
+**Charts** <br>
+Bar chart: average score for each of the four skills<br>
+Bar chart: how many students are in each readiness band<br>
+Line or bar chart: average readiness score by branch<br>
 
-#The report#
+**The report**
 
-The weakest skill across the batch is ______ because ______.
-______ students are ready right now.
-The largest group is ______, which means ______.
-The single most useful training session would be ______ because ______.
-One thing that surprised me in this data was ______.
-If I only had time to help ten students, I would pick ______ because ______.
+The weakest skill across the batch is ______ because ______. <br>
+______ students are ready right now.<br>
+The largest group is ______, which means ______.<br>
+The single most useful training session would be ______ because ______.<br>
+One thing that surprised me in this data was ______.<br>
+If I only had time to help ten students, I would pick ______ because ______.<br>
