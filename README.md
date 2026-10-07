@@ -1,40 +1,43 @@
 #**Placement Readiness Tracker - Using simple NUMPY, PANDAS , DATA VISUALIZATION USING MATPLOTLIB**#
 
-`Generated a Dataset of Students`
+Generated a Dataset of Students
 
-Your dataRun the generator you will be given:
-
-python generate_placement_data.py
+`python generate_placement_data.py`
 
 You get placement_readiness.csv with these columns:
 
-Column	Meaning
-Student_ID	Anonymous ID
-Branch	CSE / ECE / IT / MECH
-Python_Score	Out of 100
-SQL_Score	Out of 100
-Aptitude_Score	Out of 100
-Communication_Score	Out of 100
-Projects_Completed	Count
-Mock_Interviews_Attended	Count
+
+| Column Name | Meaning / Description |
+| :--- | :--- |
+| **Student_ID** | Anonymous ID |
+| **Branch** | CSE / ECE / IT / MECH |
+| **Python_Score** | Out of 100 |
+| **SQL_Score** | Out of 100 |
+| **Aptitude_Score** | Out of 100 |
+| **Communication_Score** | Out of 100 |
+| **Projects_Completed** | Count |
+| **Mock_Interviews_Attended** | Count |
+
 This is simulated data. It is not real students. Never do this analysis on real classmates.
 
 **Calculated Readiness Band**
 
 Add a column Readiness_Band:
 
-Condition	Band
-Readiness Score ≥ 75	Ready
-60 to 74	Almost Ready
-Below 60	Needs Work
 
-Charts
+| Condition | Band |
+| :--- | :--- |
+| Readiness Score ≥ 75 | Ready |
+| 60 to 74 | Almost Ready |
+| Below 60 | Needs Work |
+
+
+#Charts#
 Bar chart: average score for each of the four skills
 Bar chart: how many students are in each readiness band
 Line or bar chart: average readiness score by branch
 
-The report
-Write six sentences. No code, no jargon.
+#The report#
 
 The weakest skill across the batch is ______ because ______.
 ______ students are ready right now.
